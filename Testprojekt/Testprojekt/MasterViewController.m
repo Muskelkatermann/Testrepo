@@ -20,6 +20,9 @@
     [super awakeFromNib];
     self.clearsSelectionOnViewWillAppear = NO;
     self.preferredContentSize = CGSizeMake(320.0, 600.0);
+    
+    // Erste Änderung im neuen Branch
+    
 }
 
 - (void)viewDidLoad {
